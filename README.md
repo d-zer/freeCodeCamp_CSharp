@@ -37,9 +37,5 @@
 - [x] Inheritance
 
 
-(https://youtu.be/GhQdlIFylQ8)
-
-<figure class="video_container">
-  <iframe src="https://youtu.be/GhQdlIFylQ8" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+![](https://youtu.be/GhQdlIFylQ8)
 
