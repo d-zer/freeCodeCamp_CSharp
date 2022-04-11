@@ -36,7 +36,3 @@
 - [x] Static Methods & Classes
 - [x] Inheritance
 
-
-<figure>
-  <iframe src="https://youtu.be/GhQdlIFylQ8" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
